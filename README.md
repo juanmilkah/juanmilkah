@@ -10,16 +10,15 @@ Welcome to my GitHub profile! I’m passionate about building robust web applica
 - **[Healthcare Platform](https://github.com/williammuchui/tibiwa)**: Building a comprehensive health management system for providers and patients to monitor vitals, schedule appointments, and more, with integrations for wearables like Fitbit and Apple Health.
 
 ## 🌱 What I'm Learning
-- **Rust**: Exploring system-level programming, high-performance web services, and command-line utilities.
-- **React Native**: Developing mobile applications to extend my front-end skillset into the mobile space.
 - **Assembly**: Diving into low-level programming to better understand hardware-software interaction.
 
 ## 👯 Collaboration Opportunities
-- I'm looking to collaborate on **open-source Rust libraries** and **React Native projects** for mobile applications.
+- I'm looking to collaborate on **open-source Rust libraries** for mobile and desktop applications.
 - If you are working on projects involving **Supabase**, **AI-driven analytics**, or **performance optimization**, I'd love to chat and contribute!
 
 ## 💬 Ask Me About
-- Full stack development using **Node.js**, **React**, **Express**, and **PostgreSQL**.
+- Linux-based Applications, high-performance web services, commandline utilities and Low-level systems using **Rust**.
+- Full stack development using **Typescript**, and **Go**.
 - Building and scaling **e-commerce** platforms, **healthcare systems**, and **SaaS** solutions.
 - **SEO optimization** techniques for websites and applications.
 
