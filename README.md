@@ -1,8 +1,8 @@
-# Hi, I'm William Muchui 👋
+# Hi, I'm Juan Milkah👋
 
-**Full Stack Developer | Open Source Enthusiast | Problem Solver**
+**Senior Software Engineer | Open Source Enthusiast | Problem Solver**
 
-Welcome to my GitHub profile! I’m passionate about building robust web applications, optimizing backend performance, and learning new technologies to solve complex problems.
+Welcome to my GitHub profile! I’m passionate about building robust web applications, optimizing backend performance, low-level systems, and learning new technologies to solve complex problems.
 
 ## 🔭 Current Projects
 - **Finance Application**: Leading the development of a tax management system to help companies and individuals manage taxes, calculate deductions, and provide automatic tax filings.
@@ -20,12 +20,13 @@ Welcome to my GitHub profile! I’m passionate about building robust web applica
 - Linux-based Applications, high-performance web services, commandline utilities and Low-level systems using **Rust**.
 - Full stack development using **Typescript**, and **Go**.
 - Building and scaling **e-commerce** platforms, **healthcare systems**, and **SaaS** solutions.
+- Cloud Development on **AWS**, **Google Cloud**.
 - **SEO optimization** techniques for websites and applications.
 
 ## 📫 How to Reach Me
-- **GitHub**: [@williammuchui](https://github.com/williammuchui)
-- **LinkedIn**: [William Muchui](https://linkedin.com/in/williammuchui)
-- **Email**: williammuchui584@gmail.com
+- **GitHub**: [@juanmilkah](https://github.com/juanmilkah)
+- **LinkedIn**: [Juan Milkah](https://linkedin.com/in/williammuchui)
+- **Email**: juanmilkah@gmail.com
 
 ## ⚡ Fun Fact
 I’m always working on **refactoring code** to improve maintainability and performance, especially in **Rust** and **Typescript** applications.
