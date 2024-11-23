@@ -5,16 +5,14 @@
 Welcome to my GitHub profile! I’m passionate about building robust web applications, optimizing backend performance, low-level systems, and learning new technologies to solve complex problems.
 
 ## 🔭 Current Projects
-- **Finance Application**: Leading the development of a tax management system to help companies and individuals manage taxes, calculate deductions, and provide automatic tax filings.
 - **[Linux Command Search](https://github.com/williammuchui/linux-command-search)**: A project to help developers search for Linux commands and their usage efficiently.
 - **[Healthcare Platform](https://github.com/williammuchui/tibiwa)**: Building a comprehensive health management system for providers and patients to monitor vitals, schedule appointments, and more, with integrations for wearables like Fitbit and Apple Health.
-
-## 🌱 What I'm Learning
-- **Assembly**: Diving into low-level programming to better understand hardware-software interaction.
+- **[Silos](https::/github.com/juanmilkah/silos)**: A commandline tool to convert files between json and yaml.
+- **[User Management REST API](http://github.com/juanmilkah/user-management-api)**: A backend tool for managing Users and Employee Data for a company.
 
 ## 👯 Collaboration Opportunities
 - I'm looking to collaborate on **open-source Rust libraries** for mobile and desktop applications.
-- If you are working on projects involving **Supabase**, **AI-driven analytics**, or **performance optimization**, I'd love to chat and contribute!
+- If you are working on projects involving **AI-driven analytics**, or **performance optimization**, I'd love to chat and contribute!
 
 ## 💬 Ask Me About
 - Linux-based Applications, high-performance web services, commandline utilities and Low-level systems using **Rust**.
@@ -29,7 +27,7 @@ Welcome to my GitHub profile! I’m passionate about building robust web applica
 - **Email**: juanmilkah@gmail.com
 
 ## ⚡ Fun Fact
-I’m always working on **refactoring code** to improve maintainability and performance, especially in **Rust** and **Typescript** applications.
+I’m always working on **refactoring code** to improve maintainability and performance, especially in **Golang**, **Rust**, and **Typescript** applications.
 
 😄 Pronouns: He/Him
 
