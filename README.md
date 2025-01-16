@@ -1,48 +1,49 @@
-# Hi, I'm Juan Milkah👋
+# Hi, I'm Juan Milkah 👋
 
-**Senior Software Engineer | Open Source Enthusiast | Problem Solver**
+**Senior Software Engineer | Systems Developer | Performance Optimization Specialist**
 
-Welcome to my GitHub profile! I’m passionate about building robust web applications, optimizing backend performance, low-level systems, and learning new technologies to solve complex problems.
+I'm passionate about building high-performance systems, optimizing backend services, and crafting efficient solutions to complex technical challenges. With expertise in Rust, Go, and TypeScript, I focus on creating robust, scalable applications that make a difference.
 
 ## 🔭 Current Projects
-- **[Linux Command Search](https://github.com/williammuchui/linux-command-search)**: A project to help developers search for Linux commands and their usage efficiently.
-- **[Healthcare Platform](https://github.com/williammuchui/tibiwa)**: Building a comprehensive health management system for providers and patients to monitor vitals, schedule appointments, and more, with integrations for wearables like Fitbit and Apple Health.
-- **[Silos](https::/github.com/juanmilkah/silos)**: A commandline tool to convert files between json and yaml.
-- **[User Management REST API](http://github.com/juanmilkah/user-management-api)**: A backend tool for managing Users and Employee Data for a company.
 
-## 👯 Collaboration Opportunities
-- I'm looking to collaborate on **open-source Rust libraries** for mobile and desktop applications.
-- If you are working on projects involving **AI-driven analytics**, or **performance optimization**, I'd love to chat and contribute!
+* **Distributed Cache System**: Building a high-performance distributed caching solution in Rust, focusing on minimal latency and maximum throughput.
+* **Healthcare Analytics Platform**: Developing a comprehensive health data analytics system with real-time monitoring capabilities and integration support for wearable devices.
+* **Performance Optimization Toolkit**: Creating a suite of tools for analyzing and optimizing application performance, with special focus on memory usage and CPU efficiency.
+* **Enterprise Authentication Service**: Implementing a secure, scalable authentication system using Go, supporting multiple protocols and identity providers.
 
-## 💬 Ask Me About
-- Linux-based Applications, high-performance web services, commandline utilities and Low-level systems using **Rust**.
-- Full stack development using **Typescript**, and **Go**.
-- Building and scaling **e-commerce** platforms, **healthcare systems**, and **SaaS** solutions.
-- Cloud Development on **AWS**, **Google Cloud**.
-- **SEO optimization** techniques for websites and applications.
+## 👯 Collaboration Interests
 
-## 📫 How to Reach Me
-- **GitHub**: [@juanmilkah](https://github.com/juanmilkah)
-- **LinkedIn**: [Juan Milkah](https://linkedin.com/in/williammuchui)
-- **Email**: juanmilkah@gmail.com
+* Excited to collaborate on **performance-critical Rust projects**, especially in systems programming and low-level optimizations.
+* Looking to contribute to **distributed systems** and **high-throughput applications**.
+* Interested in partnering on projects involving **real-time data processing** and **scalable architectures**.
+
+## 💬 Technical Expertise
+
+* **Systems Programming**: Developing high-performance applications in Rust and Go, with focus on memory efficiency and CPU optimization.
+* **Backend Development**: Building scalable services using TypeScript (Node.js), Go, and Rust.
+* **Cloud Architecture**: Extensive experience with AWS and Google Cloud, specializing in distributed systems and microservices.
+* **Performance Optimization**: Profiling and optimizing applications for maximum throughput and minimal latency.
+* **API Design**: Creating robust, developer-friendly APIs with focus on performance and scalability.
+
+## 🛠 Tech Stack
+
+* **Languages**: Rust, Go, TypeScript
+* **Frameworks**: Actix, Tokio, Gin, Express
+* **Databases**: PostgreSQL, MongoDB, Redis
+* **Cloud Platforms**: AWS, Google Cloud
+* **Tools**: Docker, Kubernetes, Terraform
+
+## 📫 Connect With Me
+
+* **GitHub**: @juanmilkah
+* **Email**: juanmilkah@gmail.com
+
+## 🎯 Current Focus
+
+Working on optimizing distributed systems and implementing efficient data processing pipelines. Particularly interested in exploring Rust's capabilities in building high-performance network services.
 
 ## ⚡ Fun Fact
-I’m always working on **refactoring code** to improve maintainability and performance, especially in **Golang**, **Rust**, and **Typescript** applications.
+
+I enjoy diving deep into performance bottlenecks and have contributed to several open-source projects, improving their performance by implementing more efficient algorithms and optimizing resource usage.
 
 😄 Pronouns: He/Him
-
-
-<!--
-**williammuchui/williammuchui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
