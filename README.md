@@ -1,49 +1,89 @@
-# Hi, I'm Juan Milkah 👋
+# Juan Milkah | Senior Software Engineer 👋
 
-**Senior Software Engineer | Systems Developer | Performance Optimization Specialist**
+[![GitHub followers](https://img.shields.io/github/followers/juanmilkah?label=Follow&style=social)](https://github.com/juanmilkah)
+[![Email](https://img.shields.io/badge/Email-juanmilkah%40gmail.com-blue)](mailto:juanmilkah@gmail.com)
 
-I'm passionate about building high-performance systems, optimizing backend services, and crafting efficient solutions to complex technical challenges. With expertise in Rust, Go, and TypeScript, I focus on creating robust, scalable applications that make a difference.
+## About Me 🚀
 
-## 🔭 Current Projects
+Senior Software Engineer specializing in high-performance systems, backend optimization, and distributed architectures. I thrive on crafting efficient solutions to complex technical challenges using Rust, Go, and TypeScript.
 
-* **Distributed Cache System**: Building a high-performance distributed caching solution in Rust, focusing on minimal latency and maximum throughput.
-* **Healthcare Analytics Platform**: Developing a comprehensive health data analytics system with real-time monitoring capabilities and integration support for wearable devices.
-* **Performance Optimization Toolkit**: Creating a suite of tools for analyzing and optimizing application performance, with special focus on memory usage and CPU efficiency.
-* **Enterprise Authentication Service**: Implementing a secure, scalable authentication system using Go, supporting multiple protocols and identity providers.
+## Current Projects 🔭
 
-## 👯 Collaboration Interests
+### Distributed Cache System
+- High-performance caching solution built in Rust
+- Focused on minimal latency and maximum throughput
+- Optimized for distributed environments
 
-* Excited to collaborate on **performance-critical Rust projects**, especially in systems programming and low-level optimizations.
-* Looking to contribute to **distributed systems** and **high-throughput applications**.
-* Interested in partnering on projects involving **real-time data processing** and **scalable architectures**.
+### Healthcare Analytics Platform
+- Comprehensive health data analytics system
+- Real-time monitoring capabilities
+- Wearable device integration support
+- Scalable data processing pipeline
 
-## 💬 Technical Expertise
+### Performance Optimization Toolkit
+- Suite of analysis and optimization tools
+- Memory usage optimization
+- CPU efficiency improvements
+- Performance bottleneck detection
 
-* **Systems Programming**: Developing high-performance applications in Rust and Go, with focus on memory efficiency and CPU optimization.
-* **Backend Development**: Building scalable services using TypeScript (Node.js), Go, and Rust.
-* **Cloud Architecture**: Extensive experience with AWS and Google Cloud, specializing in distributed systems and microservices.
-* **Performance Optimization**: Profiling and optimizing applications for maximum throughput and minimal latency.
-* **API Design**: Creating robust, developer-friendly APIs with focus on performance and scalability.
+### Enterprise Authentication Service
+- Secure, scalable authentication system in Go
+- Multi-protocol support
+- Multiple identity provider integration
+- High-throughput capabilities
 
-## 🛠 Tech Stack
+## Technical Expertise 💬
 
-* **Languages**: Rust, Go, TypeScript
-* **Frameworks**: Actix, Tokio, Gin, Express
-* **Databases**: PostgreSQL, MongoDB, Redis
-* **Cloud Platforms**: AWS, Google Cloud
-* **Tools**: Docker, Kubernetes, Terraform
+### Systems Engineering
+- High-performance application development (Rust, Go)
+- Memory efficiency optimization
+- CPU performance tuning
+- Low-level systems programming
 
-## 📫 Connect With Me
+### Backend Development
+- Scalable service architecture
+- TypeScript (Node.js) optimization
+- Distributed systems design
+- Real-time data processing
 
-* **GitHub**: @juanmilkah
-* **Email**: juanmilkah@gmail.com
+### Cloud & Infrastructure
+- AWS and Google Cloud platforms
+- Microservices architecture
+- Container orchestration
+- Infrastructure automation
 
-## 🎯 Current Focus
+## Tech Stack 🛠
 
-Working on optimizing distributed systems and implementing efficient data processing pipelines. Particularly interested in exploring Rust's capabilities in building high-performance network services.
+```plaintext
+Languages:   Rust | Go | TypeScript
+Frameworks:  Actix | Tokio | Gin | Express
+Databases:   PostgreSQL | MongoDB | Redis
+Cloud:       AWS | Google Cloud
+Tools:       Docker | Kubernetes | Terraform
+```
 
-## ⚡ Fun Fact
+## Collaboration Interests 👯
+
+I'm always excited to collaborate on:
+- Performance-critical Rust projects
+- Distributed systems
+- High-throughput applications
+- Real-time data processing systems
+- Scalable architecture design
+
+## Current Focus 🎯
+
+Currently working on optimizing distributed systems and implementing efficient data processing pipelines. Particularly interested in exploring Rust's capabilities in building high-performance network services.
+
+## Connect With Me 📫
+
+- GitHub: [@juanmilkah](https://github.com/juanmilkah)
+- Email: [juanmilkah@gmail.com](mailto:juanmilkah@gmail.com)
+
+## Fun Fact ⚡
 
 I enjoy diving deep into performance bottlenecks and have contributed to several open-source projects, improving their performance by implementing more efficient algorithms and optimizing resource usage.
 
-😄 Pronouns: He/Him
+---
+
+*Pronouns: He/Him* 😄
