@@ -1,6 +1,7 @@
 # Juan Milkah | Senior Software Engineer 
 
-GitHub followers • Email
+[![GitHub followers](https://img.shields.io/github/followers/juanmilkah?label=Follow&style=social)](https://github.com/juanmilkah)
+[![Email](https://img.shields.io/badge/Email-juanmilkah%40gmail.com-blue)](mailto:juanmilkah@gmail.com)
 
 ---
 
