@@ -1,91 +1,113 @@
-# Juan Milkah | Senior Software Engineer 
-
-[![GitHub followers](https://img.shields.io/github/followers/juanmilkah?label=Follow&style=social)](https://github.com/juanmilkah)
+# Juan Milkah | Systems & Backend Software Engineer 
 [![Email](https://img.shields.io/badge/Email-juanmilkah%40gmail.com-blue)](mailto:juanmilkah@gmail.com)
 
 ---
 
 ### About Me 
-
-Senior Software Engineer specializing in high-performance systems, distributed service architecture, and backend infrastructure. I'm passionate about building efficient, resilient platforms using Rust, C, and Go. My current focus is developing corporate-grade tools for microservice ecosystems — systems that handle scale, security, and observability from the ground up.
+Systems and Backend Software Engineer with 3+ years of experience building high-performance, scalable software solutions. I specialize in Rust and Go, creating robust backend systems, real-time platforms, and cloud infrastructure. My work has helped clients reduce costs by 30%, improve efficiency by 45%, and build platforms handling 10,000+ concurrent users.
 
 ---
 
-### Current Projects 
+### Featured Projects 
 
-Microservice Mesh Sidecar (Rust)  
-A lightweight, high-performance sidecar proxy for secure service-to-service communication  
-- Built-in observability, retries, and circuit breaking  
-- Minimal overhead using async Rust (Tokio + Hyper)  
-- WASM filter support for custom routing logic  
+**High-Performance File [Search Engine](https://github.com/juanmilkah/indexer) (Rust)**  
+Command-line search tool with advanced indexing and text processing  
+- Inverted index implementation with stemming and stop-word filtering  
+- Achieved <15ms query latency on large local file sets  
+- Optimized for memory efficiency and fast I/O operations  
 
-Smart API Gateway (Rust)  
-Edge layer for internal/external APIs with built-in auth and traffic shaping  
-- JWT authentication, rate limiting, and quota enforcement  
-- Dynamic routing and GraphQL passthrough support  
-- Integrates with Redis and OpenTelemetry  
+**In-Memory [Database](https://github.com/juanmilkah/volatix) (Rust)**  
+Redis-compatible database implementing Redis Serialization Protocol 3.0  
+- Achieved 100K concurrent reads/writes per second  
+- Built from scratch with focus on throughput and latency  
+- Supports Redis command set with memory-optimized data structures  
 
-Distributed Message Broker (C)  
-Pub/Sub system for ultra-low-latency microservice messaging  
-- Supports multiple delivery guarantees (at-least-once, exactly-once)  
-- Binary protocol for fast serialization  
-- Log-based message replay and partitioning  
+**Custom Load [Balancer](https://github.com/juanmilkah/load_balancer) (Go)**  
+High-performance Layer 7 load balancer with multiple routing algorithms  
+- Round Robin, Least Connections, and weighted routing  
+- Reduced average system latency by 45% under high load  
+- Built-in health checks and failover mechanisms  
 
-Config Management Service (Rust)  
-Centralized config registry for live-reload and access control  
-- Real-time config propagation  
-- Fine-grained RBAC  
-- gRPC and REST API interfaces  
+**P2P Video Streaming Service (Rust/WebRTC)**  
+Peer-to-peer video communication platform  
+- Low-latency video meetings with direct streaming  
+- WebRTC integration with WebSocket signaling  
+- Proof-of-concept for decentralized communication  
+
+**16-Register Virtual Machine (Rust)**  
+Custom virtual machine implementation  
+- Supports basic operations like moves and jumps  
+- Built instruction set architecture from ground up  
+- Demonstrates low-level systems programming skills  
+
+**PNG [Decoder](https://github.com/juanmilkah/png-decoder) (Rust)**  
+RFC 2083 compliant PNG file format decoder  
+- Supports batch processing of multiple files  
+- Implements full PNG specification  
+- Optimized for memory usage and decode speed  
 
 ---
 
 ### Technical Expertise 
 
-Systems Engineering  
-- Low-level systems development (Rust, C, Go)  
-- Event-driven architectures  
-- Zero-copy data flow & memory safety  
-- Secure network protocol design  
+**Systems Programming**  
+- Low-level development (Rust)  
+- Concurrent and parallel programming  
+- Memory safety and zero-copy optimizations  
+- Network protocol implementation  
 
-Backend Infrastructure  
-- Microservice communication patterns  
-- Distributed tracing and telemetry  
-- API gateway architecture  
-- Service discovery and orchestration  
+**Backend Development**  
+- RESTful APIs, GraphQL, WebSockets  
+- Microservices architecture  
+- Real-time systems and message queues  
+- Database design and optimization  
 
-Cloud & DevOps  
-- Container-native systems (Docker, Kubernetes)  
-- Cloud-native deployments (AWS, GCP)  
-- Infrastructure automation (Terraform)  
-- CI/CD pipelines for monorepos and polyrepos  
+**Cloud & Infrastructure**  
+- AWS (EC2, S3, Lambda, SQS)  
+- Docker containerization  
+- CI/CD pipelines and automation  
+- Linux/Unix system administration  
+
+**Databases**  
+- SQL: PostgreSQL, MySQL  
+- NoSQL: MongoDB, Redis  
+- Query optimization and indexing  
+- Database architecture design  
+
+---
+
+### Professional Highlights 
+
+**Scale:** Built systems handling 10,000+ concurrent users  
+**Cost Reduction:** Saved clients $30K+ monthly in infrastructure costs  
+**Performance:** Achieved 100K ops/sec with custom database implementation  
+**Efficiency:** Improved system performance by 45% through optimization  
+**Reliability:** Processed 1,000+ daily transactions with 99.9% uptime  
 
 ---
 
 ### Collaboration Interests
 
-I’m open to working on:  
-- Rust-based microservice platforms  
-- High-throughput, low-latency systems  
-- Custom service mesh or gateway design  
-- Distributed tracing or monitoring agents  
-- Scalable internal tooling and devops infra
+I'm open to working on:  
+- High-performance Rust and Go systems  
+- Distributed systems and microservices  
+- Real-time communication platforms  
+- Database engines and storage systems  
+- Cloud infrastructure and DevOps tooling  
 
 ---
 
 ### Current Focus 
 
-Actively building microservice infrastructure components that blend performance, reliability, and developer usability. Focused on writing systems in Rust and C that can serve internal enterprise teams and cloud-native platforms at scale.
+Building efficient, scalable backend systems that solve real business problems. Focused on Rust for performance-critical applications and Go for cloud-native services. Always looking for the next optimization opportunity and clean architecture patterns.
 
 ---
 
 ### Connect With Me 
-
-Email: juanmilkah@gmail.com
+Email: juanmilkah@gmail.com  
+Portfolio: [View my work](https://juanmilkah.vercel.app)  
 
 ---
 
 ### Fun Fact 
-
-I’m always chasing the next 10x optimization. Whether it’s shaving off latency in a hot path or replacing bloated layers with lean systems code, I believe performance is a feature — and I love building tools that prove it.
-
----
+I believe performance is a feature. Whether it's achieving <15ms search latency or handling 100K concurrent operations, I'm always chasing that next optimization. Every millisecond matters when you're building systems at scale.
