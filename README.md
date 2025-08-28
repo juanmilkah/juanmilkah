@@ -53,6 +53,6 @@ Building efficient, scalable backend systems that solve real business problems. 
 
 ### Connect With Me 
 Email: juanmilkah@proton.me  
-Portfolio: [View my work](https://juanmilkah.vercel.app)  
+Portfolio: [View my work](https://juanmilkah.github.io)  
 
 ---
