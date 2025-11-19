@@ -9,7 +9,7 @@ Systems and Backend Software Engineer with 3+ years of experience building high-
 ### Technical Expertise 
 
 **Systems Programming**  
-- Low-level development (Rust)  
+- Low-level development (Rust, C, C++)  
 - Concurrent and parallel programming  
 - Memory safety and zero-copy optimizations  
 - Network protocol implementation  
